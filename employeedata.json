@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 102,
+      "empName": "suraj chavan",
+      "empSalary": "50000",
+      "empDepartment": "Developer",
+      "EmpImageUrl": "https://cdn-icons-png.flaticon.com/512/714/714928.png"
+    },
+    {
+      "id": 104,
+      "empName": "saurabh chavan",
+      "empSalary": "45000",
+      "empDepartment": "Developer",
+      "EmpImageUrl": "https://cdn-icons-png.flaticon.com/512/554/554857.png"
+    },
+    {
+      "empName": "rohit shinde",
+      "empSalary": "12345",
+      "empDepartment": "HR",
+      "EmpImageUrl": "https://cdn-icons-png.flaticon.com/512/470/470301.png",
+      "id": 105
+    },
+    {
+      "empName": "imran shaikh",
+      "empSalary": "54321",
+      "empDepartment": "HR",
+      "EmpImageUrl": "https://cdn-icons-png.flaticon.com/512/432/432606.png",
+      "id": 106
+    }
+  ]
+}
